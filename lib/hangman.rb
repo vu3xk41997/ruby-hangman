@@ -8,10 +8,8 @@ class Game
     # method to select secret word
     def get_secret_word(array)
         word = array.sample
-        if word.length < 5 || word.length > 12
-            get_secret_word(array)
-        else
-            word
+        until word.length > 5 && word.length < 12
+            word = array.sample
         end
         word.upcase
     end
