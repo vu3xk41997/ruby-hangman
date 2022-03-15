@@ -1,0 +1,22 @@
+---
+secret_word: RETRIEVE
+secret_word_letters:
+- R
+- T
+- V
+used_letters:
+- A
+- E
+- I
+- O
+- U
+lives: 7
+answer_letters:
+- _
+- E
+- _
+- _
+- I
+- E
+- _
+- E

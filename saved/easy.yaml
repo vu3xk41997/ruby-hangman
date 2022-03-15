@@ -1,0 +1,20 @@
+---
+secret_word: SUFFER
+secret_word_letters:
+- S
+- F
+- R
+used_letters:
+- A
+- E
+- I
+- O
+- U
+lives: 7
+answer_letters:
+- _
+- U
+- _
+- _
+- E
+- _

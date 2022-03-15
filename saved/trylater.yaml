@@ -1,0 +1,24 @@
+---
+secret_word: RESIDENT
+secret_word_letters:
+- R
+- S
+- D
+- N
+- T
+used_letters:
+- A
+- E
+- I
+- O
+- U
+lives: 7
+answer_letters:
+- _
+- E
+- _
+- I
+- _
+- E
+- _
+- _

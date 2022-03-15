@@ -1,0 +1,23 @@
+---
+secret_word: EXPENSES
+secret_word_letters:
+- X
+- P
+- N
+- S
+used_letters:
+- A
+- E
+- I
+- O
+- U
+lives: 6
+answer_letters:
+- E
+- _
+- _
+- E
+- _
+- _
+- E
+- _

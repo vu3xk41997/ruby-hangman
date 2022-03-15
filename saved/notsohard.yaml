@@ -1,0 +1,24 @@
+---
+secret_word: RESISTANT
+secret_word_letters:
+- R
+- S
+- T
+- N
+used_letters:
+- A
+- E
+- I
+- O
+- U
+lives: 8
+answer_letters:
+- _
+- E
+- _
+- I
+- _
+- _
+- A
+- _
+- _

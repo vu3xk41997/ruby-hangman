@@ -1,0 +1,20 @@
+---
+secret_word: HOLLOW
+secret_word_letters:
+- H
+- L
+- W
+used_letters:
+- A
+- E
+- I
+- O
+- U
+lives: 6
+answer_letters:
+- _
+- O
+- _
+- _
+- O
+- _
